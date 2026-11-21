@@ -104,8 +104,8 @@ php artisan serve
 
 ---
 ## 🔗 Connect with Me
-- 🐙 **GitHub:** [@MalakElyan](https://github.com/MalakElyan) 
-- 💼 **LinkedIn:** [Malak Elyan](https://www.linkedin.com/in/malak-elyan) 
+- 🐙 **GitHub:** [Ola Nasrallah](https://github.com/olanasralllah) 
+- 💼 **LinkedIn:** [Ola Nasrallah](https://www.linkedin.com/in/ola-nasrallah/)) 
 
 ---
 
